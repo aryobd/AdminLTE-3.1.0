@@ -1,8 +1,8 @@
 /*!
- * AdminLTE v3.2.0 (https://adminlte.io)
- * Copyright 2014-2022 Colorlib <https://colorlib.com>
- * Licensed under MIT (https://github.com/ColorlibHQ/AdminLTE/blob/master/LICENSE)
- */
+AdminLTE v3.2.0 (https://adminlte.io)
+Copyright 2014-2022 Colorlib <https://colorlib.com>
+Licensed under MIT (https://github.com/ColorlibHQ/AdminLTE/blob/master/LICENSE)
+*/
 (
     function(global, factory) {
         typeof
@@ -32,16 +32,16 @@
 
             var $__default = /*#__PURE__*/ _interopDefaultLegacy($);
 
-            /**
-             * --------------------------------------------
-             * AdminLTE CardRefresh.js
-             * License MIT
-             * --------------------------------------------
-             */
-            /**
-             * Constants
-             * ====================================================
-             */
+            /*
+            --------------------------------------------
+            AdminLTE CardRefresh.js
+            License MIT
+            --------------------------------------------
+            */
+            /*
+            Constants
+            ====================================================
+            */
 
             var NAME$e = 'CardRefresh';
             var DATA_KEY$e = 'lte.cardrefresh';

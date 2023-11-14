@@ -48,7 +48,7 @@ The sidebar used in this page to the left provides an example of what your sideb
               </a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link">
+              <a class="nav-link" href="#">
                 <i class="far fa-circle nav-icon"></i>
                 <p>Inactive Page</p>
               </a>
@@ -56,7 +56,7 @@ The sidebar used in this page to the left provides an example of what your sideb
           </ul>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link">
+          <a class="nav-link" href="#">
             <i class="nav-icon fas fa-th"></i>
             <p>
               Simple Link

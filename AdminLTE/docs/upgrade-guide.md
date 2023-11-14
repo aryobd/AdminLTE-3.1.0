@@ -68,7 +68,7 @@ Old sample entry
 New sample entry
 ```html
 <li class="nav-item">
-  <a href="pages/widgets.html" class="nav-link">
+  <a class="nav-link" href="pages/widgets.html">
     <i class="nav-icon fas fa-th"></i>
     <p>
       Widgets
@@ -103,7 +103,7 @@ Old sample entry (with tree menu)
 New sample entry (with tree menu)
 ```html
 <li class="nav-item">
-  <a href="#" class="nav-link">
+  <a class="nav-link" href="#">
     <i class="nav-icon fas fa-tachometer-alt"></i>
     <p>
       Dashboard
