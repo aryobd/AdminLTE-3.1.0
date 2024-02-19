@@ -511,7 +511,7 @@ This file is for demo purposes only.
 
     $container.append($text_sm_footer_container);
 
-    // Color Arrays
+    // COLOR ARRAYS
 
     var navbar_dark_skins = [
         'navbar-primary',
@@ -611,7 +611,7 @@ This file is for demo purposes only.
         'sidebar-light-olive'
     ];
 
-    // Navbar Variants
+    // NAVBAR VARIANTS
 
     $container.append('<h6>Navbar Variants</h6>');
 
@@ -660,7 +660,7 @@ This file is for demo purposes only.
 
     $container.append($navbar_variants);
 
-    // Sidebar Colors
+    // SIDEBAR COLORS
 
     $container.append('<h6>Accent Color Variants</h6>');
 
